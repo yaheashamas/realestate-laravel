@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/UserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/AreaSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/AreaSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/CityController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/CityController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +224,7 @@
       <workItem from="1614425876473" duration="21000" />
       <workItem from="1614425944273" duration="43000" />
       <workItem from="1614428854383" duration="244000" />
-      <workItem from="1614430325253" duration="1405000" />
+      <workItem from="1614430325253" duration="2144000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="delete function destroy">
       <created>1614366470446</created>
