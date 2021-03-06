@@ -20,9 +20,11 @@ class EstateController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index($id)
     {
-        return new RealEstatesResource(Estate::all());
+        $estates = Estate::query()->where('realEstateType_id',$id)->get();
+//        return response()->json($estates);
+        return new RealEstatesResource($estates);
     }
 
     /**

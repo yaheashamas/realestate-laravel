@@ -18,7 +18,7 @@ Route::get('user','API\UserController@getAuthenticatedUser');
 /*End Routes Users*/
 
 /*Start Routes RealEstate*/
-Route::get('realestates','API\EstateController@index');
+Route::get('realestates/{id}','API\EstateController@index');
 Route::get('realestate/{id}','API\EstateController@show');
 Route::post('realestate/user/{id}','API\EstateController@store');
 Route::post('realestate/{id}/user','API\EstateController@update');
