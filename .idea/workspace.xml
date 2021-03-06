@@ -1,9 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/3f3ed289-e43e-42f4-a457-567e0d7370a9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/50a03d87-d103-483d-888b-904d2b9fe623.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/54d82d62-1abb-4aa0-aef8-35e14654fba0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/7f2d9168-7b40-49c8-a831-b0fd0763a70e.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/8c1e0957-2413-439b-903f-8a2d911349ff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/910cbdf9-b607-48e8-9f1b-27e642756ff0.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/91222f59-83b7-47be-93d5-0fb829ce469a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ff09eaf8-b4e6-448a-a893-dfe281f4f8c4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/CityController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/CityController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/EstateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/EstateController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Area.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Area.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Estate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Estate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Image.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1397971d-194c-45a8-8f80-7618fce147c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1e43624e-6ded-4d62-8b10-35ed94c0ef01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/20210209195315.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/22096416-7069-4a46-bc1d-96ec85e35b3a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/2cf7e95f-e66b-47f6-9917-6b9f7c72b66e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/2e17c91f-ee25-4a42-a83b-a895b90128e1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/46811b25-b447-4698-8856-1ffe33c84d29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/4d577e1e-ff9a-4d52-9f71-33cb2ddf12e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/550038af-bda9-4434-8445-4712e924798d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/b05c662c-dda3-4b13-8e56-c1ca8aa1c795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/bd8454cc-38a2-47b0-adcb-9d9706c57fcb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/d0dabae0-7de4-4d55-bbeb-7b66f6129fc2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/dfe4b9f4-47f6-449d-befe-e433078f89cb.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,12 +189,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1o7pmTL8CG1cHbJFHoqamtULfSf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -226,7 +271,14 @@
       <workItem from="1614425876473" duration="21000" />
       <workItem from="1614425944273" duration="43000" />
       <workItem from="1614428854383" duration="244000" />
-      <workItem from="1614430325253" duration="6785000" />
+      <workItem from="1614430325253" duration="12182000" />
+      <workItem from="1614546082219" duration="667000" />
+      <workItem from="1614698386332" duration="245000" />
+      <workItem from="1614706927848" duration="9371000" />
+      <workItem from="1614800776797" duration="3598000" />
+      <workItem from="1614946350500" duration="10562000" />
+      <workItem from="1615061688099" duration="1122000" />
+      <workItem from="1615065441027" duration="3587000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="delete function destroy">
       <created>1614366470446</created>
@@ -258,7 +310,19 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
       <updated>1614437194278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL؜٠٠٠٠٦" summary="finished type and Registries and city and area">
+      <created>1614446541326</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
+      <updated>1614446541326</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٧" summary="finished type and Registries and city and area">
+      <created>1614446700908</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٧" />
+      <updated>1614446700908</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,21 +341,28 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="delete function destroy" />
     <MESSAGE value="last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+    <MESSAGE value="finished type and Registries and city and area" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished type and Registries and city and area" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="353" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615061722999">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="353" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1615061722999" />
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1614444923711">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1612714040815" />
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614444923711" />
-    <state x="1674" y="0" key="CommitChangelistDialog2" timestamp="1614437192843">
-      <screen x="1366" y="0" width="1366" height="738" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1614446698882">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1614366622288" />
     <state x="1674" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1614437192843" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1614446698882" />
     <state x="1829" y="123" key="FileChooserDialogImpl" timestamp="1613038157855">
       <screen x="1366" y="0" width="1366" height="738" />
     </state>
@@ -312,10 +383,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="404" y="110" width="540" height="524" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1612900073731" />
-    <state x="1641" y="109" key="Vcs.Push.Dialog.v2" timestamp="1614437198776">
-      <screen x="1366" y="0" width="1366" height="738" />
+    <state x="275" y="109" key="Vcs.Push.Dialog.v2" timestamp="1614446721291">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="1641" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1614437198776" />
+    <state x="275" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1614446721291" />
     <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1614428856389">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -327,17 +399,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="379" y="0" width="614" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1613220908154" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1614363084779">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="1705" y="165" width="672" height="677" key="run.anything.popup" timestamp="1614712513367">
+      <screen x="1366" y="0" width="1366" height="738" />
     </state>
-    <state x="1705" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1612868481447" />
+    <state x="1705" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1614712513367" />
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1614363084779" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1613315855119">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1615062707600">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1612713449844" />
-    <state x="1712" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1613314509503" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1614966777333" />
+    <state x="1712" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1614715956495" />
     <state x="1712" y="64" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.5.1366.738@1366.5.1366.738" timestamp="1612648102902" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1613315855119" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1615062707600" />
   </component>
 </project>

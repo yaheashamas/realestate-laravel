@@ -25,22 +25,33 @@ class Estate extends Model
     protected $casts = [
         'specifications' => 'array'
     ];
+    protected $with = [
+        "images",
+        'area',
+        "register",
+        "type",
+    ];
     public $timestamps = true;
-
-    //relation
-    public function user(){
-       return $this->belongsTo(User::class);
-    }
-
+    //relation one to many
     public function images(){
         return $this->hasMany(Image::class,'estate_id','id');
     }
 
-    public  function offers(){
+    public function offers(){
         return $this->hasMany(Offer::class);
     }
 
     public function area(){
-        return  $this->belongsTo(Area::class);
+        return $this->belongsTo(Area::class,'area_id','id');
     }
+    public function user(){
+        return $this->belongsTo(User::class,'user_id','id');
+    }
+    public function register(){
+        return $this->belongsTo(RealEstateRegistry::class,'realEstateRegistry_id','id');
+    }
+    public function type(){
+        return $this->belongsTo(RealEstateType::class,'realEstateType_id','id');
+    }
+
 }
