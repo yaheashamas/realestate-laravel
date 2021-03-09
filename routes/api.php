@@ -18,14 +18,14 @@ Route::get('user','API\UserController@getAuthenticatedUser');
 /*End Routes Users*/
 
 /*Start Routes RealEstate*/
-Route::get('realestates/{id}','API\EstateController@index');
 Route::get('realestate/{id}','API\EstateController@show');
+Route::post('realestates','API\EstateController@index');
 Route::post('realestate/user/{id}','API\EstateController@store');
 Route::post('realestate/{id}/user','API\EstateController@update');
-
 /*End Routes RealEstate*/
 
 /*Start Route offer*/
+
 /*End Route offer*/
 
 /*start Route city*/

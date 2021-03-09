@@ -16,14 +16,12 @@ use Illuminate\Support\Str;
 class EstateController extends Controller
 {
     /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
+     * @param Request $request
+     * @return RealEstatesResource
      */
-    public function index($id)
+    public function index(Request $request)
     {
-        $estates = Estate::query()->where('realEstateType_id',$id)->get();
-//        return response()->json($estates);
+        $estates = Estate::query()->where('realEstateType_id',$request->id)->get();
         return new RealEstatesResource($estates);
     }
 
@@ -85,7 +83,6 @@ class EstateController extends Controller
         $realEstate->realEstateRegistry_id= $request->get('realEstateRegistry_id');
         $realEstate->realEstateType_id =    $request->get('realEstateType_id');
         $realEstate->user_id =              $user;
-        dd($realEstate->area_id);
         $realEstate->save();
         //save multi image
         if ($request->files->get('url')) {

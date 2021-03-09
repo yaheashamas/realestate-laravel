@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/ad4be0fc-82de-4990-8560-23fde34b4e57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dc5b5b47-4d09-40ba-a42d-f1a8240b7bdb.jfif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/EstateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/EstateController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
@@ -255,7 +257,9 @@
       <workItem from="1614946350500" duration="10562000" />
       <workItem from="1615061688099" duration="1122000" />
       <workItem from="1615065441027" duration="3587000" />
-      <workItem from="1615069223148" duration="547000" />
+      <workItem from="1615069223148" duration="714000" />
+      <workItem from="1615116611862" duration="8219000" />
+      <workItem from="1615314250255" duration="2504000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="delete function destroy">
       <created>1614366470446</created>
@@ -305,7 +309,13 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٨" />
       <updated>1615069457381</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL؜٠٠٠٠٩" summary="mutatus image">
+      <created>1615069904729</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٩" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٩" />
+      <updated>1615069904729</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,19 +342,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="mutatus image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615061722999">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="1719" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615315714081">
+      <screen x="1366" y="0" width="1366" height="738" />
     </state>
+    <state x="1719" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1615315714081" />
     <state x="353" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1615061722999" />
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1614444923711">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1612714040815" />
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614444923711" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1615069453600">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1615069902540">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1615069453600" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1615069902540" />
     <state x="1674" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1614437192843" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1614446698882" />
     <state x="1829" y="123" key="FileChooserDialogImpl" timestamp="1613038157855">
@@ -367,10 +378,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="404" y="110" width="540" height="524" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1612900073731" />
-    <state x="275" y="109" key="Vcs.Push.Dialog.v2" timestamp="1615069462250">
+    <state x="275" y="109" key="Vcs.Push.Dialog.v2" timestamp="1615069906934">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1615069462250" />
+    <state x="275" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1615069906934" />
     <state x="1641" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1614437198776" />
     <state x="275" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1614446721291" />
     <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1614428856389">
