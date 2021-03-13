@@ -83,7 +83,7 @@ class EstateController extends Controller
         $realEstate->realEstateRegistry_id= $request->get('realEstateRegistry_id');
         $realEstate->realEstateType_id =    $request->get('realEstateType_id');
         $realEstate->user_id =              $user;
-        $realEstate->save();
+
         //save multi image
         if ($request->files->get('url')) {
             $images = $request->files->get('url');
@@ -99,7 +99,8 @@ class EstateController extends Controller
             }
         }
         Image::insert($insert);
-
+        $realEstate->save();
+        dd($realEstate);
         return new RealEstateResource($realEstate);
     }
 
