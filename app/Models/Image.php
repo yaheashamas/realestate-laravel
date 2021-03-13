@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\App;
 
 class Image extends Model
 {
@@ -17,6 +18,6 @@ class Image extends Model
     }
 
     public function getUrlAttribute($value) {
-        return env('APP_URL')."/images/$value";
+        return env('APP_URL')."images/$value";
     }
 }
