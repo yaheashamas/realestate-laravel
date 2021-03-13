@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="clean all  catch" />
+    <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/EstateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/EstateController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -276,7 +279,7 @@
       <workItem from="1615314250255" duration="2504000" />
       <workItem from="1615638494342" duration="657000" />
       <workItem from="1615639746109" duration="664000" />
-      <workItem from="1615640508224" duration="12238000" />
+      <workItem from="1615640508224" duration="13605000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="delete function destroy">
       <created>1614366470446</created>
@@ -344,7 +347,25 @@
       <option name="presentableId" value="LOCAL؜٠٠٠١١" />
       <updated>1615664185797</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL؜٠٠٠١٢" summary="clean all  catch">
+      <created>1615665905753</created>
+      <option name="number" value="LOCAL؜٠٠٠١٢" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٢" />
+      <updated>1615665905753</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٣" summary="clean all  catch">
+      <created>1615665992417</created>
+      <option name="number" value="LOCAL؜٠٠٠١٣" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٣" />
+      <updated>1615665992417</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠١٤" summary="clean all  catch">
+      <created>1615666386168</created>
+      <option name="number" value="LOCAL؜٠٠٠١٤" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١٤" />
+      <updated>1615666386168</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,12 +406,12 @@
     </state>
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1612714040815" />
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614444923711" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1615665904395">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1615666384825">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1615069902540" />
     <state x="1674" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1615664413555" />
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1615665904395" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1615666384825" />
     <state x="1829" y="123" key="FileChooserDialogImpl" timestamp="1613038157855">
       <screen x="1366" y="0" width="1366" height="738" />
     </state>
