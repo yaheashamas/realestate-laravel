@@ -19,26 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="mutatus image">
-      <change afterPath="$PROJECT_DIR$/install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/1c5f8167-55ec-4715-9e09-aac87608a455.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/24e7107c-138a-4562-8ec5-822292d04673.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RealEstate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RealEstate.iml" afterDir="false" />
+    <list default="true" id="90c4ea0c-f310-4c7e-a523-1f111250383d" name="Default Changelist" comment="clean all  catch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Image.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Image.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/13486fd5-3b6f-4c6f-a25e-840f5e608166.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/3f3ed289-e43e-42f4-a457-567e0d7370a9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/50a03d87-d103-483d-888b-904d2b9fe623.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/54d82d62-1abb-4aa0-aef8-35e14654fba0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/7f2d9168-7b40-49c8-a831-b0fd0763a70e.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/8c1e0957-2413-439b-903f-8a2d911349ff.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/910cbdf9-b607-48e8-9f1b-27e642756ff0.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/91222f59-83b7-47be-93d5-0fb829ce469a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/c3381f26-e979-47cb-874c-4e7ca3cad98b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ff09eaf8-b4e6-448a-a893-dfe281f4f8c4.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +278,7 @@
       <workItem from="1615314250255" duration="2504000" />
       <workItem from="1615638494342" duration="657000" />
       <workItem from="1615639746109" duration="664000" />
-      <workItem from="1615640508224" duration="11096000" />
+      <workItem from="1615640508224" duration="11624000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="delete function destroy">
       <created>1614366470446</created>
@@ -358,7 +340,13 @@
       <option name="presentableId" value="LOCAL؜٠٠٠١٠" />
       <updated>1615663975613</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL؜٠٠٠١١" summary="clean all  catch">
+      <created>1615664185797</created>
+      <option name="number" value="LOCAL؜٠٠٠١١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠١١" />
+      <updated>1615664185797</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +372,8 @@
     <MESSAGE value="finished type and Registries and city and area" />
     <MESSAGE value="mutatus image" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="clean all  catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean all  catch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615644802774">
@@ -398,11 +387,11 @@
     </state>
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1612714040815" />
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614444923711" />
-    <state x="1674" y="0" key="CommitChangelistDialog2" timestamp="1615663974756">
+    <state x="1674" y="0" key="CommitChangelistDialog2" timestamp="1615664413555">
       <screen x="1366" y="0" width="1366" height="738" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1615069902540" />
-    <state x="1674" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1615663974756" />
+    <state x="1674" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1615664413555" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1614446698882" />
     <state x="1829" y="123" key="FileChooserDialogImpl" timestamp="1613038157855">
       <screen x="1366" y="0" width="1366" height="738" />
