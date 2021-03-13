@@ -134,7 +134,7 @@ class EstateController extends Controller
 //            'y_longitude' => 'required',
 //            'type' => 'required',
 //            'Specifications' => 'required',
-//            'city_id' => 'required',
+//            'city_id' => 'required',             
 //            'user_id' => 'required',
 //            'url' => 'required',
 //            'url.*' =>   'image|mimes:jpeg,png,jpg,gif,svg|max:2048'
